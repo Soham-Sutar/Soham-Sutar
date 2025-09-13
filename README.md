@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Soham Sutar
-
 🚀 Passionate Software Engineering Student | 💻 Web Development • 🧠 AI/ML • 🔐 Cybersecurity  
 🎓 Pursuing B.E. in Information Science Engineering @ KLS Gogte Institute of Technology  
 
