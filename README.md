@@ -85,11 +85,6 @@ A 2FA-enabled login system with **email verification** and **biometric authentic
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)  
-
----
 
 ## 🌐 Connect With Me  
 
