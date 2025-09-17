@@ -57,9 +57,9 @@ A cybersecurity-focused project with three integrated tools:
 - 📧 Smart Secure Email Authentication (OTP/Passkey based)  
 - 🌐 Phishing Website Detection System  
 
-
-🔑 **Secure Authentication System**  
-A 2FA-enabled login system with **email verification** and **biometric authentication**, ensuring robust and reliable access control.  
+⚙️ **Gating Calculator App**  
+An industrial application designed to calculate **gating ratios for castings**.  
+Developed using **Godot Engine**, focusing on accuracy, reliability, and ease of use for foundry engineers.  
 
 🎟️ **Digital Entry System**  
 An event management system that generates **QR-code-based tickets** for secure student registrations, enabling easy scanning and validation at entry points.  
@@ -73,6 +73,9 @@ A web app that generates personalized study plans with tasks, calendar integrati
 
 📊 **Student Academic Planner (Excel Project)**  
 An Excel-based planner with task tracking, progress visualization, and calendar-based scheduling.  
+
+🔑 **Secure Authentication System**  
+A 2FA-enabled login system with **email verification** and **biometric authentication**, ensuring robust and reliable access control. 
 
 🌐 **Web Development Projects** (HTML, CSS, JS):  
 - Carbon Footprint Tracker
