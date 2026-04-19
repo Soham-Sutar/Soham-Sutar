@@ -61,6 +61,11 @@ Developed using **Godot Engine**, focusing on accuracy, reliability, and ease of
 🎟️ **Digital Entry System**  
 An event management system that generates **QR-code-based tickets** for secure student registrations, enabling easy scanning and validation at entry points.  
 
+🌱 **Smart Irrigation System (IoT + AI)**  
+An IoT-based smart irrigation system that collects real-time soil, humidity, and salinity data along with live weather forecasts to make intelligent irrigation decisions.  
+- 🤖 AI-powered logic engine to determine watering duration  
+- ⏱️ Automated scheduling of irrigation cycles  
+- 🔄 AUTO/MANUAL mode control for flexibility  
 ---
 
 ## 📌 Other Projects  
