@@ -79,9 +79,7 @@ An Excel-based planner with task tracking, progress visualization, and calendar-
 🔑 **Secure Authentication System**  
 A 2FA-enabled login system with **email verification** and **biometric authentication**, ensuring robust and reliable access control. 
 
-🌐 **Web Development Projects** (HTML, CSS, JS):  
-- Carbon Footprint Tracker
-  
+
 
 
 
