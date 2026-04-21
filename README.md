@@ -115,4 +115,4 @@ A 2FA-enabled login system with **email verification** and **biometric authentic
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free connect with me.*  
+⭐️ *Thanks for visiting my profile! Feel free connect with me .*  
