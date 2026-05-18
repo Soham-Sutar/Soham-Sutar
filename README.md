@@ -81,8 +81,6 @@ A 2FA-enabled login system with **email verification** and **biometric authentic
 
 
 
-
-
 ---
 ## 🔥 GitHub Streak
 
@@ -99,8 +97,6 @@ A 2FA-enabled login system with **email verification** and **biometric authentic
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Sutar&theme=tokyonight&utcOffset=5.5)
   
-
-
 ## 🌐 Connect With Me  
 
 <p align="left">
