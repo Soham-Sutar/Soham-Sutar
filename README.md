@@ -84,6 +84,7 @@ status     : Always learning 🚀
       <img src="https://img.shields.io/badge/Ganache-E4A663?style=flat-square&logo=trufflesuite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=flat-square&logo=autodesk&logoColor=white"/>
       <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SalesForce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
     </td>
   </tr>
 </table>
